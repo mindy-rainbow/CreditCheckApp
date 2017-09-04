@@ -1,13 +1,15 @@
-package com.zxcioc.creditcheck;
+package com.zxcioc.creditcheck.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.zxcioc.creditcheck.R;
+
+public class ChangePwdActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_change_pwd);
     }
 }
