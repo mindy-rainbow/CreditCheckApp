@@ -5,6 +5,10 @@ import android.os.Bundle;
 
 import com.zxcioc.creditcheck.R;
 
+/**
+ * 修改昵称
+ */
+
 public class ChangeNameActivity extends AppCompatActivity {
 
     @Override

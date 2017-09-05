@@ -9,6 +9,10 @@ import com.zxcioc.creditcheck.R;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
+/**
+ * 主页
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     @BindView(R.id.title)

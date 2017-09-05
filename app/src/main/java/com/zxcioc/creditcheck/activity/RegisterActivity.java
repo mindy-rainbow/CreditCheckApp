@@ -5,6 +5,10 @@ import android.os.Bundle;
 
 import com.zxcioc.creditcheck.R;
 
+/**
+ * 注册页
+ */
+
 public class RegisterActivity extends AppCompatActivity {
 
     @Override

@@ -5,15 +5,11 @@ import android.os.Bundle;
 
 import com.zxcioc.creditcheck.R;
 
-/**
- * 引导页
- */
-
-public class WelcomeActivity extends AppCompatActivity {
+public class SendReportActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_welcome);
+        setContentView(R.layout.activity_send_report);
     }
 }

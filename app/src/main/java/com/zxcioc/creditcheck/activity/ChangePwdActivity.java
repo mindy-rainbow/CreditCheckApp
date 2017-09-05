@@ -5,6 +5,10 @@ import android.os.Bundle;
 
 import com.zxcioc.creditcheck.R;
 
+/**
+ * 修改密码
+ */
+
 public class ChangePwdActivity extends AppCompatActivity {
 
     @Override

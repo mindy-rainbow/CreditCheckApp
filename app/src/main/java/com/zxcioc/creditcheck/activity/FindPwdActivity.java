@@ -5,6 +5,10 @@ import android.os.Bundle;
 
 import com.zxcioc.creditcheck.R;
 
+/**
+ * 找回密码
+ */
+
 public class FindPwdActivity extends AppCompatActivity {
 
     @Override

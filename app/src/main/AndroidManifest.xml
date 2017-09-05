@@ -46,6 +46,10 @@
         </activity>
         <activity android:name=".activity.ReportActivity">
         </activity>
+        <activity android:name=".activity.CreateReportActivity">
+        </activity>
+        <activity android:name=".activity.SendReportActivity">
+        </activity>
     </application>
 
 </manifest>

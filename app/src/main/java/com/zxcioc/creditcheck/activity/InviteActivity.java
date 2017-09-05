@@ -5,6 +5,10 @@ import android.os.Bundle;
 
 import com.zxcioc.creditcheck.R;
 
+/**
+ * 发出邀请
+ */
+
 public class InviteActivity extends AppCompatActivity {
 
     @Override

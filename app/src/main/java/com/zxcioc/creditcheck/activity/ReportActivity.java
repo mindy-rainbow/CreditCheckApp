@@ -5,6 +5,10 @@ import android.os.Bundle;
 
 import com.zxcioc.creditcheck.R;
 
+/**
+ * 报告详情
+ */
+
 public class ReportActivity extends AppCompatActivity {
 
     @Override

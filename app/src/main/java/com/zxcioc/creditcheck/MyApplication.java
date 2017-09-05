@@ -10,15 +10,10 @@ import com.blankj.utilcode.util.Utils;
  */
 public class MyApplication extends Application {
 
-    public static MyApplication application = null;
-
-    public MyApplication(){
-        application =  this;
-    }
-
     @Override
     public void onCreate() {
         super.onCreate();
+        AppProfile.init(this);
         //初始化工具类
         //https://github.com/Blankj/AndroidUtilCode
         Utils.init(this);

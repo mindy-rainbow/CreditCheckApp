@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import com.zxcioc.creditcheck.R;
 
 /**
- * A login screen that offers login via email/password.
+ *登录页
  */
 public class LoginActivity extends AppCompatActivity{
 

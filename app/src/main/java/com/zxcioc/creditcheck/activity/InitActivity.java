@@ -5,6 +5,10 @@ import android.os.Bundle;
 
 import com.zxcioc.creditcheck.R;
 
+/**
+ * 启动页
+ */
+
 public class InitActivity extends Activity {
 
     @Override

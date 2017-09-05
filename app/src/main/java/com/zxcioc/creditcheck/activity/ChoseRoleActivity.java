@@ -5,6 +5,10 @@ import android.os.Bundle;
 
 import com.zxcioc.creditcheck.R;
 
+/**
+ * 选择身份
+ */
+
 public class ChoseRoleActivity extends AppCompatActivity {
 
     @Override
