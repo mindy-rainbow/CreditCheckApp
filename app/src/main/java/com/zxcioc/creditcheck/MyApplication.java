@@ -12,13 +12,10 @@ public class MyApplication extends Application {
 
     public static MyApplication application = null;
 
-    public MyApplication(){
-        application =  this;
-    }
-
     @Override
     public void onCreate() {
         super.onCreate();
+        application =  this;
         //初始化工具类
         //https://github.com/Blankj/AndroidUtilCode
         Utils.init(this);
